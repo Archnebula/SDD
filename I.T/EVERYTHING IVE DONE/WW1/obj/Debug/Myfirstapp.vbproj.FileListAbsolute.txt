@@ -1,0 +1,20 @@
+C:\Users\Maanu.alexander\Documents\Visual Studio 2008\Projects\Myfirstapp\bin\Debug\Myfirstapp.exe
+C:\Users\Maanu.alexander\Documents\Visual Studio 2008\Projects\Myfirstapp\bin\Debug\Myfirstapp.pdb
+C:\Users\Maanu.alexander\Documents\Visual Studio 2008\Projects\Myfirstapp\bin\Debug\Myfirstapp.xml
+C:\Users\Maanu.alexander\Documents\Visual Studio 2008\Projects\Myfirstapp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Maanu.alexander\Documents\Visual Studio 2008\Projects\Myfirstapp\obj\Debug\Myfirstapp.Resources.resources
+C:\Users\Maanu.alexander\Documents\Visual Studio 2008\Projects\Myfirstapp\obj\Debug\Myfirstapp.vbproj.GenerateResource.Cache
+C:\Users\Maanu.alexander\Documents\Visual Studio 2008\Projects\Myfirstapp\obj\Debug\Myfirstapp.exe
+C:\Users\Maanu.alexander\Documents\Visual Studio 2008\Projects\Myfirstapp\obj\Debug\Myfirstapp.xml
+C:\Users\Maanu.alexander\Documents\Visual Studio 2008\Projects\Myfirstapp\obj\Debug\Myfirstapp.pdb
+C:\Users\Maanu.alexander\Documents\Visual Studio 2008\Projects\Myfirstapp\obj\Debug\Myfirstapp.frmForm.resources
+C:\Users\Maanu.alexander\Desktop\I.T\WW1\obj\Debug\Myfirstapp.exe
+C:\Users\Maanu.alexander\Desktop\I.T\WW1\obj\Debug\Myfirstapp.xml
+C:\Users\Maanu.alexander\Desktop\I.T\WW1\obj\Debug\Myfirstapp.pdb
+C:\Users\Maanu.alexander\Desktop\I.T\WW1\bin\Debug\Myfirstapp.exe
+C:\Users\Maanu.alexander\Desktop\I.T\WW1\bin\Debug\Myfirstapp.pdb
+C:\Users\Maanu.alexander\Desktop\I.T\WW1\bin\Debug\Myfirstapp.xml
+C:\Users\Maanu.alexander\Desktop\I.T\WW1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Maanu.alexander\Desktop\I.T\WW1\obj\Debug\Myfirstapp.frmForm.resources
+C:\Users\Maanu.alexander\Desktop\I.T\WW1\obj\Debug\Myfirstapp.Resources.resources
+C:\Users\Maanu.alexander\Desktop\I.T\WW1\obj\Debug\Myfirstapp.vbproj.GenerateResource.Cache

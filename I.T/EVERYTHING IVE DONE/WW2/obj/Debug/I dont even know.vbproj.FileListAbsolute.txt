@@ -1,0 +1,14 @@
+C:\Users\Maanu.alexander\Documents\Visual Studio 2008\Projects\I dont even know\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Maanu.alexander\Documents\Visual Studio 2008\Projects\I dont even know\obj\Debug\Vis_BAsic.Form1.resources
+C:\Users\Maanu.alexander\Documents\Visual Studio 2008\Projects\I dont even know\obj\Debug\Vis_BAsic.Resources.resources
+C:\Users\Maanu.alexander\Documents\Visual Studio 2008\Projects\I dont even know\obj\Debug\I dont even know.vbproj.GenerateResource.Cache
+C:\Users\Maanu.alexander\Desktop\I.T\WW2\bin\Debug\I dont even know.exe
+C:\Users\Maanu.alexander\Desktop\I.T\WW2\bin\Debug\I dont even know.pdb
+C:\Users\Maanu.alexander\Desktop\I.T\WW2\bin\Debug\I dont even know.xml
+C:\Users\Maanu.alexander\Desktop\I.T\WW2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Maanu.alexander\Desktop\I.T\WW2\obj\Debug\Vis_BAsic.Form1.resources
+C:\Users\Maanu.alexander\Desktop\I.T\WW2\obj\Debug\Vis_BAsic.Resources.resources
+C:\Users\Maanu.alexander\Desktop\I.T\WW2\obj\Debug\I dont even know.vbproj.GenerateResource.Cache
+C:\Users\Maanu.alexander\Desktop\I.T\WW2\obj\Debug\I dont even know.exe
+C:\Users\Maanu.alexander\Desktop\I.T\WW2\obj\Debug\I dont even know.xml
+C:\Users\Maanu.alexander\Desktop\I.T\WW2\obj\Debug\I dont even know.pdb
